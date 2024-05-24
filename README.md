@@ -1,2 +1,13 @@
-# Technohacks-Internship
-In this internship , I focused on data cleaning, summary statistics calculation, and visualization using the Iris dataset. The project involved removing missing values and outliers, calculating mean, median, mode, and standard deviation, and creating histograms to visualize the data distribution.
+Technohack Internship About the Project This repository contains the projects and tasks completed during my Technohack Data Analytics Internship. The tasks include data cleaning, summary statistics calculation, and data visualization.
+
+Projects 1.Data Cleaning and Outlier Removal -Cleaned a dataset by removing missing values and outliers. -Handled missing data for various columns such as Age, Fare, and Embarked.
+
+2.Summary Statistics -Calculated summary statistics (mean, median, mode, standard deviation) for the cleaned dataset.
+
+3.Data Visualization -Created histograms and bar charts to visualize the distribution of data.
+
+Skills Utilized -Python (Pandas, NumPy) -Data Analysis -Data Visualization (Matplotlib, Seaborn)
+
+How to Use 1.Clone this repository to your local machine: git clone https://github.com/your-username/technohack-internship.git 2.Open the Jupyter notebooks to explore the code and results of each task. 3.Refer to the README for a summary of the tasks completed.
+
+Contact -LinkedIn: https://www.linkedin.com/in/nikhil-shingade-32b659235/ -Email: nikhilshingade131@gmail.com
