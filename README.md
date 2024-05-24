@@ -1,6 +1,7 @@
 Technohack Internship About the Project This repository contains the projects and tasks completed during my Technohack Data Analytics Internship. The tasks include data cleaning, summary statistics calculation, and data visualization.
 
-Projects 1.Data Cleaning and Outlier Removal -Cleaned a dataset by removing missing values and outliers. -Handled missing data for various columns such as Age, Fare, and Embarked.
+Projects 
+1.Data Cleaning and Outlier Removal -Cleaned a dataset by removing missing values and outliers. -Handled missing data for various columns such as Age, Fare, and Embarked.
 
 2.Summary Statistics -Calculated summary statistics (mean, median, mode, standard deviation) for the cleaned dataset.
 
